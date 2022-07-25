@@ -1,4 +1,3 @@
-from re import T, X
 import pygame
 import sys
 from random import randint, uniform
