@@ -42,7 +42,7 @@ class Laser(pygame.sprite.Sprite):
 pygame.init()
 windows_width, windows_height = 1280, 720
 display = pygame.display.set_mode((windows_width, windows_height))
-pygame.display.set_caption("broooooooooooooooooooooo")
+pygame.display.set_caption("Asteroid-shoother")
 clock = pygame.time.Clock()
 
 # background
